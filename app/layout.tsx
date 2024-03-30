@@ -29,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <link rel="icon" sizes="180x180" href="/images/icon_logo_white.png"></link>
-      <link rel='apple-touch-icon' sizes='180x180' href='/images/full_logo_sideways copy.png'></link>
+      <link rel='apple-touch-icon' sizes='180x180' href='/images/icon_logo.png'></link>
 
 
       <body className={`${inter.variable} ${inter_tight.variable} font-inter antialiased bg-white text-zinc-900 tracking-tight`}>
