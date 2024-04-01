@@ -6,8 +6,8 @@ import Stats from "@/components/stats";
 import YouTube, { YouTubeProps } from "react-youtube";
 
 const opts: YouTubeProps["opts"] = {
-  height: "620",
-  width: "1104",
+  width: "100%",
+  height: "600",
   playerVars: {
     // https://developers.google.com/youtube/player_parameters
     autoplay: 1,
